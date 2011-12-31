@@ -26,4 +26,4 @@ Format a README.md (that’s .md for Markdown), stick your resume in there and s
 Everything sucks and is hard
 ----------------------------
 
-Post on Stack Overflow or ask in [Ottawa Ruby](https://groups.google.com/forum/#!forum/ogre-list) if you run into any problems during this tech gauntlet. Don’t worry; [you got the powerrrrrrrr] (http://www.youtube.com/watch?v=jkYuK3AKrxc)
+Post on [Stack Overflow](http://stackoverflow.com/) or ask in [Ottawa Ruby](https://groups.google.com/forum/#!forum/ogre-list) if you run into any problems during this tech gauntlet. Don’t worry; [you got the powerrrrrrrr] (http://www.youtube.com/watch?v=jkYuK3AKrxc)
