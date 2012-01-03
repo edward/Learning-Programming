@@ -10,7 +10,7 @@ If you haven’t ever programmed before, don’t sweat it. Those who would be go
 A first stab at programming
 ---------------------------
 
-Start off by giving [Try Ruby](http://tryruby.org/ an in-browser programming tutorial) a shot and seeing how much fun you have.
+Start off by giving [Try Ruby](http://tryruby.org/), an in-browser programming tutorial, a shot and seeing how much fun you have.
 
 If you’re able to finish it, then give [Rails for Zombies](http://railsforzombies.org/) a shot. The end goal here is that we want you eventually being able to write a Shopify App so you can coach others on how to do the same, as well as spotting opportunities for where an app could make someone’s life easier.
 
