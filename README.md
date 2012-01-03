@@ -14,7 +14,7 @@ Start off by giving [Try Ruby](http://tryruby.org/ an in-browser programming tut
 
 If you’re able to finish it, then give [Rails for Zombies](http://railsforzombies.org/) a shot. The end goal here is that we want you eventually being able to write a Shopify App so you can coach others on how to do the same, as well as spotting opportunities for where an app could make someone’s life easier.
 
-Sidenote: if you’re running into trouble with learning Ruby, definitely give [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/) a shot. Note that if you’re running Windows, you might be better off with installing VMWare and running Ubuntu Linux inside of Windows as programming Ruby on Windows is still tough going.
+Sidenote: if you’re running into trouble with learning Ruby, definitely give [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/) a shot. Note that if you’re running Windows, you should try http://railsinstaller.org/. If you're still having trouble you might be better off with installing VMWare and running Ubuntu Linux inside of Windows as programming Ruby on Windows is still tough going.
 
 Ready to Rock / Apply
 ---------------------
